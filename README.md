@@ -1,9 +1,10 @@
 # yubuGadgets
 bunch of various gadgets
 
-## miniPalmrest
+
 ![palmrest](images/palmrest.jpg)
 
+## miniPalmrest
 Mini palmrest for split keyboard
 
 ## RSK - round square keycap
