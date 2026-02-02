@@ -15,3 +15,6 @@ simple keycap in MX profile, optimized by the supports of [printyl](https://gith
 
 ## keymaps
 vial keymaps for various keyboards
+
+## keycapSpacer
+spacer for MX keyswitch stems. 1mm, 1.5mm, and 2mm hights are provided with printing supports.
