@@ -18,3 +18,6 @@ vial keymaps for various keyboards
 
 ## keycapSpacer
 spacer for MX keyswitch stems. 1mm, 1.5mm, and 2mm hights are provided with printing supports.
+
+## yubuGadgetsFootprints.pretty
+bunch of footprints which I use for keyboard design. also see external footprint license.txt to find which reference I used.
