@@ -3,12 +3,13 @@ bunch of various gadgets
 
 all things of this repo are licenced by CC BY-SA 4.0 if without any notice
 
-
-
-![palmrest](images/palmrest.jpg)
-
 ## miniPalmrest
+![palmrest](images/palmrest.jpg)
 Mini palmrest for split keyboard
+
+## phalilwolTentingStand
+![phalilwolTentingStand](images/phalilwolTentingStand.png)
+Tenting Stand for [phalwol](https://github.com/yuburoll/phalwol) and [ilwol](https://github.com/yuburoll/ilwol)
 
 ## RSK - round square keycap
 simple keycap in MX profile, optimized by the supports of [printyl](https://github.com/yuburoll/printyl)
